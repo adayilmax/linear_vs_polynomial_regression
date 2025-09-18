@@ -33,4 +33,4 @@ dataset, comparing performance with mean squared error (MSE).
 ## Reproducibility
 ```bash
 pip install -r requirements.txt
-jupyter notebook notebooks/analysis.ipynb
+jupyter notebook notebooks/linear_vs_polynomial_regression.ipynb
